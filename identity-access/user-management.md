@@ -129,7 +129,7 @@ New-MgUser -DisplayName "John Doe" `
 
 <p align="center">
 Verify that the user was successfully created in the Admin Center: <br/>
-<img src="YOUR_SCREENSHOT_LINK_HERE" height="80%" width="80%" alt="User Created via Script"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/Zwelakhe-Y-Identity-Access-screenshots/identity-access/13-Auto-User-Created.png" height="80%" width="80%" alt="User Created via Script"/>
 <br />
 <br />
 </p>
