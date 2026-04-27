@@ -33,7 +33,7 @@ This dashboard is where all users, roles, and services are managed. <br/>
 <h3>User Creation:</h3>
 <p align="center">
 Navigate to <b>Users → Active Users</b> and click <b>Add a user</b>: <br/>
-<img src="" height="80%" width="80%" alt="Create User"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/Zwelakhe-Y-Identity-Access-screenshots/identity-access/03.1-Users%20created.png" height="80%" width="80%" alt="Create User"/>
 <br />
 <br />
 Fill in user details such as name and username (e.g., hr@yourdomain.onmicrosoft.com): <br/>
