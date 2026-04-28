@@ -81,11 +81,10 @@ Navigate to user settings and enable Multi-Factor Authentication & confirm MFA s
 
 <h3>Conditional Access Policy Configuration:</h3>
 <p align="center">
-Go to Microsoft Entra ID portal and navigate to <b>Protection → Conditional Access</b>: <br/>
+Go to Microsoft Entra ID portal and navigate to <b>Protection → Conditional Access.</b> From there, create a policy to block access outside South Africa & enable and review the policy settings after you save the policy. It should appear in the list of policies: <br/>
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/Zwelakhe-Y-Identity-Access-screenshots/identity-access/09-Policy%20Configuration%20screen.png" height="80%" width="80%" alt="Conditional Access"/>
 <br />
 <br />
-Create a policy to block access outside South Africa & enable and review the policy settings: <br/>
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/Zwelakhe-Y-Identity-Access-screenshots/identity-access/10-Policy-Enabled.png" height="80%" width="80%" alt="Create Policy + Policy Enabled"/>
 <br />
 <br />
