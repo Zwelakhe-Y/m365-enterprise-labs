@@ -22,7 +22,7 @@ Navigate to Microsoft Intune Admin Center: <br/>
 
 https://endpoint.microsoft.com <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/intune-dashboard.png" height="80%" width="80%" alt="Intune Dashboard"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Image-Resources/1.%20Intune-Dashboard-home.png" height="80%" width="80%" alt="Intune Dashboard"/>
 <br />
 </p>
 
@@ -30,11 +30,13 @@ https://endpoint.microsoft.com <br/><br/>
 
 <h3>Step 2: Enable Automatic Enrollment</h3>
 <p align="center">
-Go to: Devices → Enroll devices → Automatic Enrollment <br/><br/>
+Go to: Devices → Enrollment → Automatic Enrollment <br/><br/>
 
 Set: <b>MDM user scope = All</b> <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/mdm-scope-all.png" height="80%" width="80%" alt="MDM Scope All"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Image-Resources/2.%20Auto-Enroll%20Location.png" height="80%" width="80%" alt="Auto Enroll location"/>
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Image-Resources/3.%20MDM%20Scope%20set%20to%20all.png" height="80%" width="80%" alt="MDM Scope All"/>
 <br />
 </p>
 
@@ -47,7 +49,7 @@ On Windows device: <br/>
 Settings → Accounts → Access work or school → Connect <br/>
 Sign in with test user account <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/device-connected.png" height="80%" width="80%" alt="Device Connected"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Image-Resources/4.%20Device%20enrolled.png" height="80%" width="80%" alt="Device Connected"/>
 <br />
 </p>
 
@@ -57,7 +59,7 @@ Sign in with test user account <br/><br/>
 <p align="center">
 Go to: Devices → All Devices <br/><br/>
 
-Verify that the enrolled device appears in the Devices list in intune <br/><br/>
+Verify that the enrolled device appears in the Devices list in Intune <br/><br/>
 <br />
 </p>
 
@@ -65,7 +67,7 @@ Verify that the enrolled device appears in the Devices list in intune <br/><br/>
 
 <h3>Step 5: Create Compliance Policy</h3>
 <p align="center">
-Go to: Devices → Compliance Policies → Create Policy <br/><br/>
+Go to: Devices → Compliance → Policy → Create Policy <br/><br/>
 
 Configure:
 - Require password  
@@ -75,7 +77,9 @@ Configure:
 <b>Note:</b>
 You will need either the P1+P2 Intune products or the Intune Suite in your account to be able to create a policy
 
-<img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/compliance-policy.png" height="80%" width="80%" alt="Compliance Policy"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Image-Resources/5.%20Policy%20Configuration.png" height="80%" width="80%" alt="Compliance Policy Screen"/>
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Image-Resources/6.%20Policy%20review.png" height="80%" width="80%" alt="Compliance Policy"/>
 <br /><br/>
 
 Policy assigned to user/device to enforce security standards.
@@ -85,7 +89,7 @@ Policy assigned to user/device to enforce security standards.
 
 <h3>Step 6: Create Configuration Profile</h3>
 <p align="center">
-Go to: Devices → Configuration → Policy → Create <br/><br/>
+Go to: Devices → Configuration → Policies → Create <br/><br/>
 
 Configure:
 - Password complexity rules  ( Under Device Lock )
@@ -93,7 +97,7 @@ Configure:
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/config-profile.png" height="80%" width="80%" alt="Configuration Profile"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Image-Resources/7.%20Configuration%20Profiles.png" height="80%" width="80%" alt="Configuration Profile"/>
 <br />
 </p>
 
@@ -105,7 +109,7 @@ Go to: Apps → Windows → Create <br/><br/>
 
 Select application (e.g., Microsoft Edge) and assign to user/device group <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/app-deployment.png" height="80%" width="80%" alt="App Deployment"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Image-Resources/8.%20Deploy%20Application.png" height="80%" width="80%" alt="App Deployment"/>
 <br />
 </p>
 
