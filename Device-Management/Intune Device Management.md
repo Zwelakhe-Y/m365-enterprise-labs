@@ -57,9 +57,7 @@ Sign in with test user account <br/><br/>
 <p align="center">
 Go to: Devices → All Devices <br/><br/>
 
-Verify that the enrolled device appears in the list <br/><br/>
-
-<img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/device-list.png" height="80%" width="80%" alt="Device List"/>
+Verify that the enrolled device appears in the Devices list in intune <br/><br/>
 <br />
 </p>
 
@@ -74,6 +72,9 @@ Configure:
 - Minimum password length  
 - Require BitLocker encryption <br/><br/>
 
+<b>Note:</b>
+You will need either the P1+P2 Intune products or the Intune Suite in your account to be able to create a policy
+
 <img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/compliance-policy.png" height="80%" width="80%" alt="Compliance Policy"/>
 <br /><br/>
 
@@ -84,10 +85,10 @@ Policy assigned to user/device to enforce security standards.
 
 <h3>Step 6: Create Configuration Profile</h3>
 <p align="center">
-Go to: Devices → Configuration Profiles → Create <br/><br/>
+Go to: Devices → Configuration → Policy → Create <br/><br/>
 
 Configure:
-- Password complexity rules  
+- Password complexity rules  ( Under Device Lock )
 - Device restrictions  
 
 <br/>
@@ -100,7 +101,7 @@ Configure:
 
 <h3>Step 7: Deploy an Application</h3>
 <p align="center">
-Go to: Apps → Windows → Add <br/><br/>
+Go to: Apps → Windows → Create <br/><br/>
 
 Select application (e.g., Microsoft Edge) and assign to user/device group <br/><br/>
 
@@ -108,23 +109,8 @@ Select application (e.g., Microsoft Edge) and assign to user/device group <br/><
 <br />
 </p>
 
----
-
-<h3>Step 8: Remote Device Actions</h3>
-<p align="center">
-Go to: Devices → Select Device <br/><br/>
-
-Perform actions such as:
-- Sync  
-- Restart  
-
-<br/>
-
-<img src="https://github.com/YOUR-REPO/Intune-Lab/blob/main/device-actions.png" height="80%" width="80%" alt="Device Actions"/>
-<br />
-</p>
 
 ---
 
 <h2>Conclusion</h2>
-This lab demonstrates successful device enrollment into Microsoft Intune, configuration of security policies, application deployment, and remote device management. These skills reflect real-world enterprise endpoint administration practices used in modern IT environments.
+This lab demonstrates successful device enrollment into Microsoft Intune, configuration of security policies, and application deployment. These skills reflect real-world enterprise endpoint administration practices used in modern IT environments.
