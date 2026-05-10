@@ -23,7 +23,7 @@ Navigate to Microsoft Entra Admin Center: <br/>
 
 https://entra.microsoft.com <br/><br/>
 
-<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/1.%20MFA%20Enabled.png" height="80%" width="80%" alt="Entra Dashboard"/>
+<img src="" height="80%" width="80%" alt="Entra Dashboard"/>
 <br />
 </p>
 
@@ -35,7 +35,9 @@ Navigate to: Users → All Users → Choose any Test user → Authentication Met
 
 Enable Multi-Factor Authentication (MFA) for the test user account. If MFA is already enabled for all users, you won't have the option to enable it for individual users, but rather reset it <br/><br/>
 
-<img src="" height="80%" width="80%" alt="Enable MFA"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/1.%20MFA%20Enabled.png" height="80%" width="80%" alt="MFA Reset if already enabled"/>
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/2.%20Enable%20MFA.png" height="80%" width="80%" alt="Enable MFA"/>
 
 <br />
 
