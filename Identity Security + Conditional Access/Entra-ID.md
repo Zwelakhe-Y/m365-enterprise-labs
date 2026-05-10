@@ -23,7 +23,7 @@ Navigate to Microsoft Entra Admin Center: <br/>
 
 https://entra.microsoft.com <br/><br/>
 
-<img src="" height="80%" width="80%" alt="Entra Dashboard"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/0.%20Entra%20Dashboard.png" height="80%" width="80%" alt="Entra Dashboard"/>
 <br />
 </p>
 
@@ -98,6 +98,16 @@ Review authentication activity, including:
 
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/4.%20Review%20sign%20in%20Logs.png" height="80%" width="80%" alt="Sign In Logs"/>
 <br />
+
+<b> Logs for test user login/policy test sign in: </b>
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/6.%20Sign%20in%20event%20details.png" height="80%" width="80%" alt="Test user Sign in logs"/>
+
+<b> Failed Sign in attempt, using incorrect password: </b>
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/6.1%20Sign%20in%20failed%20Logs.png" height="80%" width="80%" alt="Failed sign in logs"/>
+
+<br />
 </p>
 
 ---
@@ -117,6 +127,10 @@ Security behaviors tested:
 <br /><br/>
 
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/5.1%20MFA%20Challenge%20screen.png" height="80%" width="80%" alt="Compliance Restriction"/>
+<br />
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/6.2%20Conditional%20Access%20Enforcement.png" height="80%" width="80%" alt="Compliance Restriction"/>
+
 <br />
 </p>
 
