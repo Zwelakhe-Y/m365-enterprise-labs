@@ -35,10 +35,8 @@ Navigate to: Users → All Users → Choose any Test user → Authentication Met
 
 Enable Multi-Factor Authentication (MFA) for the test user account. <br/><br/>
 
-<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/2.%20Require%20MFA%20for%20all%20users.png" height="80%" width="80%" alt="MFA Policy Settings"/>
-<br />
+<img src="" height="80%" width="80%" alt="Enable"/>
 
-<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/2.1%20Require%20MFA%20for%20all%20users.png" height="80%" width="80%" alt="Require MFA Settings"/>
 <br />
 
 </p>
@@ -58,7 +56,10 @@ Policy Settings:
 
 <br/>
 
-<img src="" height="80%" width="80%" alt="Device Compliant Conditional Access Policy"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/2.%20Require%20MFA%20for%20all%20users.png" height="80%" width="80%" alt="MFA Policy Settings"/>
+<br />
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/2.1%20Require%20MFA%20for%20all%20users.png" height="80%" width="80%" alt="Require MFA Settings"/>
 <br />
 </p>
 
@@ -75,7 +76,7 @@ Policy Settings:
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-3/blob/main/device-compliance-policy.png" height="80%" width="80%" alt="Device Compliance Policy"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/3.%20Require%20Device%20to%20be%20compliant.png" height="80%" width="80%" alt="Device Compliance Policy"/>
 <br />
 </p>
 
@@ -93,7 +94,7 @@ Review authentication activity, including:
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-3/blob/main/signin-logs.png" height="80%" width="80%" alt="Sign In Logs"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/4.%20Review%20sign%20in%20Logs.png" height="80%" width="80%" alt="Sign In Logs"/>
 <br />
 </p>
 
@@ -110,10 +111,10 @@ Security behaviors tested:
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-3/blob/main/mfa-challenge.png" height="80%" width="80%" alt="MFA Challenge"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/5.%20MFA%20Challenge%20screen.png" height="80%" width="80%" alt="MFA Challenge"/>
 <br /><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-3/blob/main/compliance-block.png" height="80%" width="80%" alt="Compliance Restriction"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/5.1%20MFA%20Challenge%20screen.png" height="80%" width="80%" alt="Compliance Restriction"/>
 <br />
 </p>
 
