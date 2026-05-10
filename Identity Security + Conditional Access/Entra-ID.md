@@ -33,9 +33,9 @@ https://entra.microsoft.com <br/><br/>
 <p align="center">
 Navigate to: Users → All Users → Choose any Test user → Authentication Methods <br/><br/>
 
-Enable Multi-Factor Authentication (MFA) for the test user account. <br/><br/>
+Enable Multi-Factor Authentication (MFA) for the test user account. If MFA is already enabled for all users, you won't have the option to enable it for individual users, but rather reset it <br/><br/>
 
-<img src="" height="80%" width="80%" alt="Enable"/>
+<img src="" height="80%" width="80%" alt="Enable MFA"/>
 
 <br />
 
