@@ -23,7 +23,7 @@ Navigate to Microsoft Exchange Admin Center: <br/>
 
 https://admin.exchange.microsoft.com <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/exchange-dashboard.png" height="80%" width="80%" alt="Exchange Admin Center"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/1.%20Exchange%20Dashboard.png" height="80%" width="80%" alt="Exchange Admin Center"/>
 <br />
 </p>
 
@@ -35,7 +35,7 @@ Navigate to: Recipients → Mailboxes <br/><br/>
 
 Previously created Microsoft 365 user accounts were automatically provisioned with Exchange Online mailboxes after license assignment. Mailbox availability and configuration were verified through Exchange Admin Center. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/mailbox-list.png" height="80%" width="80%" alt="Mailbox List"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/2.%20Email-boxes.png" height="80%" width="80%" alt="Mailbox List"/>
 <br />
 </p>
 
@@ -47,10 +47,10 @@ Navigate to: Recipients → Mailboxes → Add Shared Mailbox <br/><br/>
 
 A shared mailbox was created to simulate centralized IT support communication and collaborative mailbox management. Delegation permissions were assigned to test users for mailbox access and administration. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/shared-mailbox.png" height="80%" width="80%" alt="Shared Mailbox"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/3.%20Create%20shared%20email.png" height="80%" width="80%" alt="Shared Mailbox"/>
 <br />
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/shared-mailbox.png" height="80%" width="80%" alt="Add user to shared Mailbox"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/3.1%20Add%20user%20into%20shared%20mailbox.png" height="80%" width="80%" alt="Add user to shared Mailbox"/>
 <br />
 </p>
 
@@ -62,7 +62,7 @@ Navigate to: Recipients → Groups → Distribution list <br/><br/>
 
 A standard distribution group was created to simulate organization-wide email communication. Group membership was manually managed to demonstrate controlled access and distribution management practices. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/distribution-group.png" height="80%" width="80%" alt="Distribution Group"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/4.%20Create%20Distribution%20Group.png" height="80%" width="80%" alt="Distribution Group"/>
 <br />
 </p>
 
@@ -78,10 +78,10 @@ Testing included:
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/mail-flow-test.png" height="80%" width="80%" alt="User to user Mail Flow Test"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/5.%20User%20to%20User%20Mail%20Flow%20Test.png" height="80%" width="80%" alt="User to user Mail Flow Test"/>
 <br />
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/mail-flow-test.png" height="80%" width="80%" alt="User to shared Mail Flow Test"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/5.0%20User%20shared%20mail%20test.png" height="80%" width="80%" alt="User to shared Mail Flow Test"/>
 <br />
 </p>
 
@@ -97,7 +97,10 @@ Mail delivery and mailbox access issues were investigated using Exchange adminis
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/mail-troubleshooting.png" height="80%" width="80%" alt="Mail Troubleshooting"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/6.%20Mail%20Trouleshooting.png" height="80%" width="80%" alt="Mail Troubleshooting"/>
+<br />
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/6.0%20Mail%20troubleshooting.png" height="80%" width="80%" alt="Mail Troubleshooting"/>
 <br />
 </p>
 
@@ -109,7 +112,7 @@ Navigate to: Mail Flow → Message Trace <br/><br/>
 
 Message tracing was used to analyze mail delivery activity, identify delivery failures, and review message routing behavior within Exchange Online. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/message-trace.png" height="80%" width="80%" alt="Message Trace"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/7.%20Message%20Trace.png" height="80%" width="80%" alt="Message Trace"/>
 <br />
 </p>
 
@@ -121,7 +124,7 @@ Navigate to: Roles <br/><br/>
 
 Exchange Role-Based Access Control (RBAC) administration was reviewed to analyze built-in administrative roles and delegated access structures. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/exchange-roles.png" height="80%" width="80%" alt="Exchange Roles"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/8.%20Exchange%20RBAC%20Dashboard.png" height="80%" width="80%" alt="Exchange Roles"/>
 <br />
 </p>
 
@@ -137,7 +140,7 @@ Built-in Exchange administrative role groups were reviewed, including:
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/role-groups.png" height="80%" width="80%" alt="Role Groups"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/9.%20Admin%20Roles%20Group.png" height="80%" width="80%" alt="Role Groups"/>
 <br />
 </p>
 
@@ -147,7 +150,10 @@ Built-in Exchange administrative role groups were reviewed, including:
 <p align="center">
 A delegated Exchange administrative role was assigned to a support account to demonstrate least-privilege administrative access and role-based permission delegation. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/role-assignment.png" height="80%" width="80%" alt="Role Assignment"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/10.%20Assign%20help%20desk%20role.png" height="80%" width="80%" alt="Role Assignment"/>
+<br />
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/10.1%20Help%20Desk%20role%20assigned.png" height="80%" width="80%" alt="Role Assigned"/>
 <br />
 </p>
 
@@ -157,7 +163,7 @@ A delegated Exchange administrative role was assigned to a support account to de
 <p align="center">
 Role assignment configuration and delegated administrative permissions were reviewed to confirm successful RBAC implementation. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-4/blob/main/rbac-verification.png" height="80%" width="80%" alt="RBAC Verification"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/11.%20New%20help%20desk%20role%20user%20assigned.png" height="80%" width="80%" alt="RBAC Verification"/>
 <br />
 </p>
 
@@ -167,7 +173,6 @@ Role assignment configuration and delegated administrative permissions were revi
 
 - Successfully administered Exchange Online mailboxes  
 - Configured and managed shared mailboxes  
-- Implemented distribution group communication  
 - Performed mail flow troubleshooting and message tracing  
 - Applied Exchange RBAC administrative permissions  
 - Demonstrated delegated administration and least-privilege access control  
