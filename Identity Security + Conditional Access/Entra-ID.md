@@ -23,7 +23,7 @@ Navigate to Microsoft Entra Admin Center: <br/>
 
 https://entra.microsoft.com <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-3/blob/main/entra-dashboard.png" height="80%" width="80%" alt="Entra Dashboard"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/1.%20MFA%20Enabled.png" height="80%" width="80%" alt="Entra Dashboard"/>
 <br />
 </p>
 
@@ -35,8 +35,12 @@ Navigate to: Users → All Users → Choose any Test user → Authentication Met
 
 Enable Multi-Factor Authentication (MFA) for the test user account. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-3/blob/main/mfa-enabled.png" height="80%" width="80%" alt="MFA Enabled"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/2.%20Require%20MFA%20for%20all%20users.png" height="80%" width="80%" alt="MFA Policy Settings"/>
 <br />
+
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Screenshots/2.1%20Require%20MFA%20for%20all%20users.png" height="80%" width="80%" alt="Require MFA Settings"/>
+<br />
+
 </p>
 
 ---
@@ -54,7 +58,7 @@ Policy Settings:
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-3/blob/main/conditional-access-policy.png" height="80%" width="80%" alt="Conditional Access Policy"/>
+<img src="" height="80%" width="80%" alt="Device Compliant Conditional Access Policy"/>
 <br />
 </p>
 
