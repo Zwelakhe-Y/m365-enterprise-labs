@@ -23,6 +23,9 @@ Navigate to Microsoft Exchange Admin Center: <br/>
 
 https://admin.exchange.microsoft.com <br/><br/>
 
+</p>
+
+<p align="center">
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/1.%20Exchange%20Dashboard.png" height="80%" width="80%" alt="Exchange Admin Center"/>
 <br />
 </p>
@@ -35,6 +38,9 @@ Navigate to: Recipients → Mailboxes <br/><br/>
 
 Previously created Microsoft 365 user accounts were automatically provisioned with Exchange Online mailboxes after license assignment. Mailbox availability and configuration were verified through Exchange Admin Center. <br/><br/>
 
+</p>
+
+<p align="center">
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/2.%20Email-boxes.png" height="80%" width="80%" alt="Mailbox List"/>
 <br />
 </p>
@@ -47,6 +53,9 @@ Navigate to: Recipients → Mailboxes → Add Shared Mailbox <br/><br/>
 
 A shared mailbox was created to simulate centralized IT support communication and collaborative mailbox management. Delegation permissions were assigned to test users for mailbox access and administration. <br/><br/>
 
+</p>
+
+<p align="center">
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/3.%20Create%20shared%20email.png" height="80%" width="80%" alt="Shared Mailbox"/>
 <br />
 
@@ -62,6 +71,9 @@ Navigate to: Recipients → Groups → Distribution list <br/><br/>
 
 A standard distribution group was created to simulate organization-wide email communication. Group membership was manually managed to demonstrate controlled access and distribution management practices. <br/><br/>
 
+</p>
+
+<p align="center">
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/4.%20Create%20Distribution%20Group.png" height="80%" width="80%" alt="Distribution Group"/>
 <br />
 </p>
@@ -76,8 +88,10 @@ Testing included:
 - User-to-user email communication  
 - Shared mailbox communication  
 
+</p>
 <br/>
 
+<p align="center">
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/5.%20User%20to%20User%20Mail%20Flow%20Test.png" height="80%" width="80%" alt="User to user Mail Flow Test"/>
 <br />
 
@@ -112,6 +126,9 @@ Navigate to: Mail Flow → Message Trace <br/><br/>
 
 Message tracing was used to analyze mail delivery activity, identify delivery failures, and review message routing behavior within Exchange Online. <br/><br/>
 
+</p>
+
+<p align="center">
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/7.%20Message%20Trace.png" height="80%" width="80%" alt="Message Trace"/>
 <br />
 </p>
@@ -124,6 +141,9 @@ Navigate to: Roles <br/><br/>
 
 Exchange Role-Based Access Control (RBAC) administration was reviewed to analyze built-in administrative roles and delegated access structures. <br/><br/>
 
+</p>
+
+<p align="center">
 <img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/screenshots/8.%20Exchange%20RBAC%20Dashboard.png" height="80%" width="80%" alt="Exchange Roles"/>
 <br />
 </p>
