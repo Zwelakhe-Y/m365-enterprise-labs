@@ -32,7 +32,7 @@ Review:
 
 <br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/defender-dashboard.png" height="80%" width="80%" alt="Microsoft Defender Dashboard"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/1.%20Defender%20Dashboard.png" height="80%" width="80%" alt="Microsoft Defender Dashboard"/>
 <br />
 </p>
 
@@ -44,7 +44,7 @@ Navigate to: Secure Score <br/><br/>
 
 The Microsoft Secure Score dashboard was reviewed to analyze organizational security posture, recommended actions, and identity protection improvements. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/secure-score.png" height="80%" width="80%" alt="Secure Score"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/2.%20Secure%20Score.png" height="80%" width="80%" alt="Secure Score"/>
 <br />
 </p>
 
@@ -56,7 +56,7 @@ Navigate to: Exposure Management → Recommendations <br/><br/>
 
 Security recommendations and exposure insights were reviewed to identify potential security risks and hardening opportunities within the Microsoft 365 environment. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/exposure-management.png" height="80%" width="80%" alt="Exposure Management"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/3.%20Exposure%20Recommendation%20Dashboard.png" height="80%" width="80%" alt="Exposure Management"/>
 <br />
 </p>
 
@@ -70,7 +70,7 @@ Microsoft Defender Vulnerability Management was reviewed to analyze exposure mon
 
 The tenant environment did not yet contain onboarded devices required for active vulnerability telemetry collection; however, the platform configuration interface, onboarding workflow, and vulnerability management features were successfully reviewed. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/vulnerability-management.png" height="80%" width="80%" alt="Vulnerability Management"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/4.%20Vulnerability%20management.png" height="80%" width="80%" alt="Vulnerability Management"/>
 <br />
 </p>
 
@@ -82,7 +82,7 @@ Navigate to: Incidents & Alerts → Incidents <br/><br/>
 
 The incidents dashboard was reviewed to analyze alert severity levels, investigation workflows, and incident monitoring capabilities available within Microsoft Defender XDR. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/incidents-dashboard.png" height="80%" width="80%" alt="Incidents Dashboard"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/5.%20Incidents%20Dashboard.png" height="80%" width="80%" alt="Incidents Dashboard"/>
 <br />
 </p>
 
@@ -94,7 +94,7 @@ Navigate to: Recommendations → Identities <br/><br/>
 
 Identity security recommendations were reviewed to analyze authentication security posture improvements, multifactor authentication recommendations, and identity protection guidance. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/identity-recommendations.png" height="80%" width="80%" alt="Identity Recommendations"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/6.%20Identity%20recommendation.png" height="80%" width="80%" alt="Identity Recommendations"/>
 <br />
 </p>
 
@@ -106,7 +106,7 @@ Navigate to: Email & Collaboration → Policies & Rules <br/><br/>
 
 Email security protection settings were reviewed, including anti-phishing protections, anti-spam policies, Safe Links, and Safe Attachments configuration options available within Microsoft Defender for Office 365. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/email-security.png" height="80%" width="80%" alt="Email Security Policies"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/7.%20Email%20Protection%20Policies.png" height="80%" width="80%" alt="Email Security Policies"/>
 <br />
 </p>
 
@@ -118,7 +118,7 @@ Navigate to: Email & Collaboration → Attack Simulation Training <br/><br/>
 
 Attack simulation and phishing awareness training capabilities were reviewed to analyze organizational user awareness and phishing simulation functionality. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/attack-simulation.png" height="80%" width="80%" alt="Attack Simulation Training"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/8.%20Attach%20Simulation%20dashboard.png" height="80%" width="80%" alt="Attack Simulation Training"/>
 <br />
 </p>
 
@@ -127,7 +127,7 @@ Attack simulation and phishing awareness training capabilities were reviewed to 
 <h3>Step 9: Security Recommendations & Remediation Review</h3>
 <p align="center">
 
-<h4>Enabled MFA for All Users</h4>
+<h4 align="center">Enabled MFA for All Users</h4>
 
 <b>Recommendation:</b> Enable multifactor authentication (MFA) for all organizational users. <br/><br/>
 
@@ -135,10 +135,10 @@ Attack simulation and phishing awareness training capabilities were reviewed to 
 
 <b>Suggested Action:</b> Configure Conditional Access policies within Microsoft Entra ID to require MFA for all users, especially privileged administrative accounts and cloud application access. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/mfa-recommendation.png" height="80%" width="80%" alt="MFA Recommendation"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/9.%20MFA%20Enforcement.png" height="80%" width="80%" alt="MFA Recommendation"/>
 <br /><br />
 
-<h4>Ensure User Consent for Apps Access on Company Data is Blocked</h4>
+<h4 align="center">Ensure User Consent for Apps Access on Company Data is Blocked</h4>
 
 <b>Recommendation:</b> Restrict user consent permissions for third-party applications requesting access to organizational data. <br/><br/>
 
@@ -146,10 +146,10 @@ Attack simulation and phishing awareness training capabilities were reviewed to 
 
 <b>Suggested Action:</b> Configure Microsoft Entra ID user consent settings to block unauthorized application consent requests and require administrator approval for application access permissions. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/app-consent-policy.png" height="80%" width="80%" alt="App Consent Restriction"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/9.1%20Ensure%20user%20consent%20for%20apps%20acces%20on%20company%20data%20is%20blocked.png" height="80%" width="80%" alt="App Consent Restriction"/>
 <br /><br />
 
-<h4>Enable Microsoft Entra ID Identity Protection Sign-In Risk Policies</h4>
+<h4 align="center">Enable Microsoft Entra ID Identity Protection Sign-In Risk Policies</h4>
 
 <b>Recommendation:</b> Enable Identity Protection sign-in risk policies to monitor and respond to risky authentication attempts. <br/><br/>
 
@@ -157,7 +157,7 @@ Attack simulation and phishing awareness training capabilities were reviewed to 
 
 <b>Suggested Action:</b> Configure Microsoft Entra ID Identity Protection policies to automatically require MFA, block risky sign-ins, and monitor suspicious authentication behavior across organizational accounts. <br/><br/>
 
-<img src="https://github.com/YOUR-REPO/Lab-6/blob/main/signin-risk-policy.png" height="80%" width="80%" alt="Sign-In Risk Policy"/>
+<img src="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Microsoft%20Defender%20CDR%20%26%20Security%20Operations%20Lab/screenshots/9.2%20Enable%20Microsoft%20Entra%20ID%20Identity%20Protection%20sign-in%20risk%20policies.png" height="80%" width="80%" alt="Sign-In Risk Policy"/>
 <br />
 </p>
 
